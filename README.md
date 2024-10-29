@@ -13,4 +13,7 @@ Run:
 
 # Caution
 
-This repo includes the malware codes
+This repo includes the malware codes.
+```
+next.config.js
+```
